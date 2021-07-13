@@ -10,9 +10,13 @@ Module(s) Used: DHT11 Temperature/Humidity sensor, I2C 2x16 LCD module
 ## I2C 2x16 LCD module
 ![61FOfovWvEL _AC_SL1010_1200x1200](https://user-images.githubusercontent.com/26400383/125404577-58b3de00-e3e9-11eb-901f-e93b6bd28ee7.jpg)
 
-
 ## Download Arduino Sketch Here
 https://www.arduino.cc/en/Guide
+
+## Clone the repository
+``` bash
+$ git clone https://github.com/Allanez/Arduino-Temp_Humidity.git
+```
 
 ## Setup
 ### Install External Libraries
