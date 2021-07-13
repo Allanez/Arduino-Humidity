@@ -13,7 +13,7 @@ Module(s) Used: DHT11 Temperature/Humidity sensor, I2C 2x16 LCD module
 ## Schematic diagram
 ![Arduino-DHT11-Tutorial-3-Pin-DHT11-Wiring-Diagram-768x391](https://user-images.githubusercontent.com/26400383/125414664-0dec3ce3-f012-4c97-9c10-9376649bd18d.png)
 
-Image taken from circuitbasics.com/wp-content/uploads/2015/10/Arduino-DHT11-Tutorial-3-Pin-DHT11-Wiring-Diagram.png
+Image taken from https://circuitbasics.com/wp-content/uploads/2015/10/Arduino-DHT11-Tutorial-3-Pin-DHT11-Wiring-Diagram.png
 
 ## Download Arduino Sketch Here
 https://www.arduino.cc/en/Guide
